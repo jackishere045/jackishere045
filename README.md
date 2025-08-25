@@ -1,5 +1,5 @@
 # 💫 About Me:
-### 👋 Hi there, I'm Adi Muzaki, you can call me Jack!<br><br>I'm a passionate web developer with a focus on inclusive design, Laravel, and React.  <br>---<br><br>🧰 Tech Stack:<br>- 🖥️ React, Vue, JavaScript<br>- 🎨 Tailwind, Bootstrap, UI/UX Design<br>- ⚙️ Laravel, Firebase, MySQL<br><br>🔗 Connect with me:<br>- 📫 [Email](mailto:zackyhokya045@gmail.com)<br>- 🌐 [Portfolio](https://jackdev-portofolio.netlify.app/)<br>- 💼 [LinkedIn](https://linkedin.com/in/adi-muzaki)<br>
+### 👋 Hi there, I'm Adi Muzaki, you can call me Jack!<br><br>I'm a passionate web developer, Laravel, and React.  <br>---<br><br>🧰 Tech Stack:<br>- 🖥️ React, Vue, JavaScript<br>- 🎨 Tailwind, Bootstrap, UI/UX Design<br>- ⚙️ Laravel, Firebase, MySQL<br><br>🔗 Connect with me:<br>- 📫 [Email](mailto:zackyhokya045@gmail.com)<br>- 🌐 [Portfolio](https://jackdev-portofolio.netlify.app/)<br>- 💼 [LinkedIn](https://linkedin.com/in/adi-muzaki)<br>
 
 
 # 💻 Tech Stack:
